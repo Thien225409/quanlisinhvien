@@ -1,0 +1,15 @@
+<!-- res/values/themes.xml -->
+<resources>
+
+    <!-- Base theme của app có ActionBar -->
+    <style name="Base.Theme.Quanlisinhvien" parent="Theme.Material3.DayNight">
+        <!-- Các tùy biến chung -->
+    </style>
+
+    <!-- Theme chính -->
+    <style name="Theme.Quanlisinhvien" parent="Base.Theme.Quanlisinhvien"/>
+
+    <!-- Theme chuyên cho màn Add/Update không có ActionBar -->
+    <style name="Theme.Quanlisinhvien.NoActionBar" parent="Theme.Material3.DayNight.NoActionBar"/>
+
+</resources>

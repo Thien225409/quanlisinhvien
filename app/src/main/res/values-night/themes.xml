@@ -1,0 +1,10 @@
+<resources>
+
+    <style name="Base.Theme.Quanlisinhvien" parent="Theme.Material3.DayNight">
+        <!-- Các tùy biến dark mode -->
+    </style>
+
+    <style name="Theme.Quanlisinhvien" parent="Base.Theme.Quanlisinhvien"/>
+    <style name="Theme.Quanlisinhvien.NoActionBar" parent="Theme.Material3.DayNight.NoActionBar"/>
+
+</resources>
